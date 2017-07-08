@@ -1,0 +1,1 @@
+create table customer (id int auto_increment, name varchar(20))
